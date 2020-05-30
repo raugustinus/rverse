@@ -1,0 +1,9 @@
+body, html {
+  overflow-y: hidden;
+  min-height: 100%;
+  height: 100%;
+}
+
+.modal-dialog {
+  max-width: 70% !important;
+}
